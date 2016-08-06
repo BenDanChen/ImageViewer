@@ -1,7 +1,7 @@
 
-
 # ImageViewer
 
+===========
 
 ### 打开图片
 	- 文件过滤器
@@ -21,7 +21,7 @@
 
 预览效果：
 
-(https://raw.githubusercontent.com/BenDanChen/ImageViewer/master/ImageViewer%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+![预览效果](https://raw.githubusercontent.com/BenDanChen/ImageViewer/master/ImageViewer%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 
 
